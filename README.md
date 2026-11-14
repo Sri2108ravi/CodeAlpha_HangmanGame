@@ -1,6 +1,7 @@
 Hangman Game
 
 Project Description:
+
 Hangman is a simple word guessing game developed using Python. The player needs to guess the hidden word by entering one letter at a time.
 
 Features:
@@ -27,4 +28,5 @@ How to Run:
 4. Start guessing the hidden word.
 
 Conclusion:
+
 This project helps beginners understand basic Python programming concepts through a simple and fun game.
